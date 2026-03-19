@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./indexpicture.jpg" width="25%" />
+  <img src="indexpicture.jpg" width="25%" />
 </p>
 <h1 align="center">来自某人的综合设计</h1>
 <h3 align="center">Complicated (from thoughts like) Winds</h3>
